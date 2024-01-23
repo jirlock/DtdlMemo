@@ -8,9 +8,9 @@
 
 ### 1-2. DTDLによるRECオントロジーのモデル
 
-[Real Estate Coreのドキュメントおよびモデルのdtdlファイル](https://github.com/RealEstateCore/rec)
+[Real Estate Coreのgithubレポジトリ](https://github.com/RealEstateCore/rec)
 
-[AzureによるReal Estate CoreとDTDLのドキュメント](https://github.com/Azure/opendigitaltwins-building)
+[AzureによるReal Estate CoreとDTDLのレポジトリ](https://github.com/Azure/opendigitaltwins-building)
 
 ## 2. Azure Digital Twins Explorerについて
 
@@ -22,4 +22,4 @@
 
 ### 3-1. モデルの作成・ツインの作成・アップデート
 
-[PythonによるAzure Digital Twins SDKのドキュメント](https://github.com/Azure/azure-sdk-for-python/blob/main/sdk/digitaltwins/azure-digitaltwins-core/README.md)
+[Azure Digital Twins のPython SDKのドキュメント](https://github.com/Azure/azure-sdk-for-python/blob/main/sdk/digitaltwins/azure-digitaltwins-core/README.md)
