@@ -1,19 +1,13 @@
 # DtdlMemo
 
 ## 1. Real Estate Coreとは何か
-
-### 1-1. Real Estate Coreオントロジーのモデル
+[Real Estate Coreのgithubレポジトリ](https://github.com/RealEstateCore/rec)
 
 [Real Estate Coreオントロジーの構造](https://dev.realestatecore.io/ontology/)
-
-### 1-2. DTDLによるRECオントロジーのモデル
-
-[Real Estate Coreのgithubレポジトリ](https://github.com/RealEstateCore/rec)
 
 [AzureによるReal Estate CoreとDTDLのレポジトリ](https://github.com/Azure/opendigitaltwins-building)
 
 ## 2. Azure Digital Twins Explorerについて
-
 [MicrosoftによるAzure Digital Twins ExplorerのTutorial](https://learn.microsoft.com/en-us/azure/digital-twins/quickstart-azure-digital-twins-explorer)
 
 ## 3. スクリプト（Python）を用いたAzure Digital Twinsの操作
