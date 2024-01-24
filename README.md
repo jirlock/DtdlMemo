@@ -5,7 +5,9 @@
 
 [Real Estate Coreオントロジーの構造](https://dev.realestatecore.io/ontology/)
 
-[AzureによるReal Estate CoreとDTDLのレポジトリ](https://github.com/Azure/opendigitaltwins-building)
+[RECモデル作成のサンプル](https://dev.realestatecore.io/docs/guides/)
+
+[Microsoft AzureによるReal Estate CoreとDTDLのレポジトリ](https://github.com/Azure/opendigitaltwins-building)
 
 ## 2. Azure Digital Twins Explorerについて
 [MicrosoftによるAzure Digital Twins ExplorerのTutorial](https://learn.microsoft.com/en-us/azure/digital-twins/quickstart-azure-digital-twins-explorer)
