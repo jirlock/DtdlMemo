@@ -1,6 +1,8 @@
 # DtdlMemo
 
 ## 1. Real Estate Coreとは何か
+[Real Estate Coreの公式ホームページ](https://www.realestatecore.io/introduction/)
+
 [Real Estate Coreのgithubレポジトリ](https://github.com/RealEstateCore/rec)
 
 "Source"フォルダに、DTDLとSHACL形式のモデルが入っている。
