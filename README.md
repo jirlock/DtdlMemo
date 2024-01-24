@@ -3,6 +3,8 @@
 ## 1. Real Estate Coreとは何か
 [Real Estate Coreのgithubレポジトリ](https://github.com/RealEstateCore/rec)
 
+"Source"フォルダに、DTDLとSHACL形式のモデルが入っている。
+
 [Real Estate Coreオントロジーの構造](https://dev.realestatecore.io/ontology/)
 
 [RECモデル作成のガイド](https://dev.realestatecore.io/docs/guides/)
