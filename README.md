@@ -5,7 +5,7 @@
 
 [Real Estate Coreオントロジーの構造](https://dev.realestatecore.io/ontology/)
 
-[RECモデル作成のサンプル](https://dev.realestatecore.io/docs/guides/)
+[RECモデル作成のガイド](https://dev.realestatecore.io/docs/guides/)
 
 [Microsoft AzureによるReal Estate CoreとDTDLのレポジトリ](https://github.com/Azure/opendigitaltwins-building)
 
